@@ -1,4 +1,4 @@
- 
+<hr> 
  🌱 I’m currently learning WEB DEV<BR>
  📫 How to reach me: praveen24.srivastav@gmail.com<BR>
  ⚡️Technologies I know --> PYTHON , C , JAVASCRIPT , HTML , CSS . <hr>
