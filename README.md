@@ -1,7 +1,7 @@
 <hr> 
  🌱 I’m currently learning WEB DEV<BR>
  📫 How to reach me : praveen24.srivastav@gmail.com<BR>
- ⚡️Technologies I know -> <p style="font-family:sans-serif;">Python , C , Javascript , React.js , Html , Css .</p>
+ ⚡️Technologies I know .. <p style="font-family:sans-serif;">Python , C , Javascript , React.js , Html , Css .</p>
 <!--
 **praveen24sriv/praveen24sriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
