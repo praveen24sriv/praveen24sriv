@@ -1,5 +1,5 @@
 <hr> 
- 🌱 I’m currently learning Back end DEV 
+ 🌱 I’m currently learning Back end DEV <br>
  📫 How to reach me : praveen24.srivastav@gmail.com<BR>
  ⚡️Technologies I know ---> <mark> Python , C ,Javascript , Express.js , Html , Css , jQuery. </mark>
 <!--
