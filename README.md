@@ -2,6 +2,8 @@
  🌱 Currently learning Backend Development <br>
  📫 Email : praveen24.srivastav@gmail.com<BR>
  ⚡️ Tech I know ---> <mark> Python , C ,Javascript , Express.js , Html , Css , jQuery. </mark>
+
+ <hr> 
 <!--
 **praveen24sriv/praveen24sriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
