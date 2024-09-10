@@ -1,7 +1,7 @@
 <hr> 
  🌱 Currently learning Backend Development <br>
  📫 Email : praveen24.srivastav@gmail.com<BR>
- ⚡️ Tech I know ---> Python , C , React.js ,  Express.js ,Javascript ,jQuery , Node.js , Html , Css.
+ ⚡️ Tech I know ---> Python , C , React.js ,  Express.js ,Javascript , Node.js , jQuery , Html , Css.
 
  <hr> 
 
