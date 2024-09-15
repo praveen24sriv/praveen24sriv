@@ -1,7 +1,7 @@
 <hr>  
  🌱 Currently learning about Databases and management. <br>
  📫 Email : praveen24.srivastav@gmail.com<BR>
- ⚡️ Tech I know ---> Python , C , React.js ,  Express.js , PostgreSQL , Javascript , Node.js , Html , Css .
+ ⚡️ Tech I know ---> Python , C , React.js ,  Express.js , PostgreSQL , JS , Node.js , HTML , CSS .
 
  <hr> 
 
