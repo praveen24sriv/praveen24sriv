@@ -1,5 +1,4 @@
 <hr>  
- 🌱 Currently learning Web Development. <br>
  📫 Email : praveen24.srivastav@gmail.com<BR>
  ⚡️ Tech Stack ---> Python , C , React.js ,  Express.js , PostgreSQL , JS , Node.js , Html , Css .
 
