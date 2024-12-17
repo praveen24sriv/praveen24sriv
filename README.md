@@ -1,5 +1,5 @@
 <hr>  
- 👋 Hey there ....! <br>
+ 👋 Hey there .....! <br>
  📫 Email : praveen24.srivastav@gmail.com <BR>
  ⚡️ Tech Stack ---> Python , C , React.js , PGsql , Express.js , Node.js , JS , Html , Css .
  <hr> 
