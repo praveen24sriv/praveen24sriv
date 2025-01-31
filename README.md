@@ -1,7 +1,7 @@
 <hr>  
  👋 Hey there ......! <br>
  📫 Email : praveen24.srivastav@gmail.com <BR>
- ⚡️ Tech Stack ----> Python , C , React.js , Express.js , Node.js , PostGreSQL , Tailwind , JS , Html , Css etc.
+ ⚡️ Tech Stack ---->  React.js , Express.js ,  PostGreSQL , Tailwind , Python , C , JS , Node.js , Html , Css etc.
  <hr> 
 
 <!--
