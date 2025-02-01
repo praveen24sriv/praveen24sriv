@@ -1,7 +1,8 @@
 <hr>  
- 👋 Hey there ......! <br>
+ 👋 Hey there ..! <br>
  📫 Email : praveen24.srivastav@gmail.com <BR>
  ⚡️ Tech Stack ---->  React.js , Express.js ,  PostGreSQL , Tailwind , Python , C , JS , Node.js , Html , Css etc.
+  💁🏻 I’m looking to collaborate on Web Dev Roles .
  <hr> 
 
 <!--
@@ -10,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...💁🏻
 - 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
