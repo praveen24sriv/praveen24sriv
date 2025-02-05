@@ -2,7 +2,7 @@
  👋 Hey there ..! <br>
  📫 Email : praveen24.srivastav@gmail.com <BR>
  ⚡️ Tech Stack ---->  React.js , Express.js ,  PostGreSQL , Tailwind , Python , C , JS , Node.js , Html , Css , etc.<br>
-  💁🏻 I’m looking to collaborate on Web App Dev Roles.
+  💁🏻 I’m looking to collaborate on Web App Dev Roles .
  <hr> 
  
 
