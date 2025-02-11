@@ -1,7 +1,8 @@
 <hr>  
-  Hey ..<br> My Name is Praveen . Just started learning and exploring few things .<br>
+  Hey .....
+  <br> My Name is Praveen . Just started learning and exploring few things .<br>
   Tech Stack ---->  React.js , Express.js ,  PostGreSQL , Tailwind , Python , C , JS , Node.js , Html , Css , etc.<br>
-  I’m looking to collaborate on Web App Dev Roles .
+  I’m looking to collaborate on Full Stack Web App Dev Roles .
  <hr> 
  
 
