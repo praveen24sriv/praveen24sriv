@@ -1,10 +1,18 @@
-<hr>  
-  Hey .....
-  <br> My Name is Praveen . Just started learning and exploring few things .<br>
-  Tech Stack ---->  React.js , Express.js ,  PostGreSQL , Tailwind , Python , C , JS , Node.js , Html , Css , etc.<br>
-  I’m looking to collaborate on Full Stack Web App Dev Roles .
- <hr> 
- 
+
+ Hi, my name is Praveen Raj Srivastav . I am a Full Stack Web Developer .
+
+#### Favourite Stuff
+
+![Neovim](https://img.shields.io/badge/Neovim-0c1017.svg?logo=neovim&logoColor=54AEFF&style=for-the-badge)
+![C](https://img.shields.io/badge/c-0c1017.svg?logo=c&logoColor=54AEFF&style=for-the-badge)
+
+
+
+![C++](https://custom-icon-badges.demolab.com/badge/C++-0c1017.svg?logo=cpp2&logoColor=54AEFF&style=for-the-badge)
+
+
+![Python](https://img.shields.io/badge/Python-0c1017.svg?logo=python&logoColor=54AEFF&style=for-the-badge)
+<!--
 
 
 <!---**praveen24sriv/praveen24sriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
