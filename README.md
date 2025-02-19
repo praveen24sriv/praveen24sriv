@@ -7,6 +7,7 @@
 ![C](https://img.shields.io/badge/c-0c1017.svg?logo=c&logoColor=54AEFF&style=for-the-badge)
 ![C++](https://custom-icon-badges.demolab.com/badge/C++-0c1017.svg?logo=cpp2&logoColor=54AEFF&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-0c1017.svg?logo=python&logoColor=54AEFF&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-04211e.svg?logo=javascript&logoColor=1DF2DD&style=for-the-badge)
 <!--
 
 
