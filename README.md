@@ -1,5 +1,5 @@
 
- Hi, my name is Praveen Raj Srivastav . I am a Full Stack Web Developer looking to collab on web dev roles .
+ Hi , my name is Praveen Raj Srivastav . I am a Full Stack Web Developer looking to collab on web dev roles .
 
 #### Favourite Stuff
 
