@@ -5,10 +5,7 @@
 
 ![Neovim](https://img.shields.io/badge/Neovim-0c1017.svg?logo=neovim&logoColor=54AEFF&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-0c1017.svg?logo=react&logoColor=54AEFF&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-0c1017.svg?logo=openjdk&logoColor=F89820&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-0c1017.svg?logo=java&logoColor=F89820&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-0c1017.svg?logo=openjdk&logoColor=54AEFF&style=for-the-badge)
-
 ![C](https://img.shields.io/badge/c-0c1017.svg?logo=c&logoColor=54AEFF&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-0c1017.svg?logo=express&logoColor=54AEFF&style=for-the-badge)
 ![C++](https://custom-icon-badges.demolab.com/badge/C++-0c1017.svg?logo=cpp2&logoColor=54AEFF&style=for-the-badge)
