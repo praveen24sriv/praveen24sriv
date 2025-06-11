@@ -1,6 +1,6 @@
 
  Hey, my name is Praveen. I’m a Full Stack Web Developer open to collaborating on web development projects.<br>
- trying to learn .
+ Learner.
 
 #### Favourite Stuff......
 
