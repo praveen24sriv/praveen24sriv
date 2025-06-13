@@ -9,7 +9,6 @@
 ![Java](https://img.shields.io/badge/Java-0c1017.svg?logo=openjdk&logoColor=54AEFF&style=for-the-badge)
 ![C](https://img.shields.io/badge/c-0c1017.svg?logo=c&logoColor=54AEFF&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-0c1017.svg?logo=express&logoColor=54AEFF&style=for-the-badge)
-![C++](https://custom-icon-badges.demolab.com/badge/C++-0c1017.svg?logo=cpp2&logoColor=54AEFF&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-0c1017.svg?logo=python&logoColor=54AEFF&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/JavaScript-0c1017.svg?logo=javascript&logoColor=54AEFF&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-0c1017.svg?logo=tailwindcss&logoColor=54AEFF&style=for-the-badge)
