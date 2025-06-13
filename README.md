@@ -2,7 +2,7 @@
  Hey, my name is Praveen. I’m a Full Stack Web Developer open to collaborating on web development projects.<br>
  Learner.
 
-#### Favourite Stuff......
+#### Favourite Stuff......//
 
 ![Neovim](https://img.shields.io/badge/Neovim-0c1017.svg?logo=neovim&logoColor=54AEFF&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-0c1017.svg?logo=react&logoColor=54AEFF&style=for-the-badge)
