@@ -1,5 +1,5 @@
 
- Hey, my name is Praveen. I’m a Front End Developer open to collaborating on web development projects.<br>
+ Hey, my name is Praveen. I’m a Full Stack Web Developer open to collaborating on web development projects.<br>
  Curious Learner.
 
 #### Favourite Stuff......//
