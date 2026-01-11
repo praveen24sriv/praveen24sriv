@@ -10,7 +10,7 @@ I'm Praveen, Full Stack Web Developer open to collaborating on web development p
 ![Redux](https://img.shields.io/badge/Redux-0c1017.svg?logo=redux&logoColor=764ABC&style=for-the-badge)
 ![C](https://img.shields.io/badge/c-0c1017.svg?logo=c&logoColor=A8B9CC&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-0c1017.svg?logo=express&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-0c1017.svg?logo=python&logoColor=ffde57&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-0c1017.svg?logo=python&logoColor=3776AB&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-0c1017.svg?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0c1017.svg?logo=mongodb&logoColor=47A248&style=for-the-badge)
 
