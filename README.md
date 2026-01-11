@@ -12,6 +12,8 @@ I'm Praveen, Full Stack Web Developer open to collaborating on web development p
 ![Express.js](https://img.shields.io/badge/Express.js-0c1017.svg?logo=express&logoColor=54AEFF&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-0c1017.svg?logo=python&logoColor=54AEFF&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-0c1017.svg?logo=tailwindcss&logoColor=54AEFF&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-0c1017.svg?logo=mongodb&logoColor=47A248&style=for-the-badge)
+
 
 <!--
 
