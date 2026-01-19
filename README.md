@@ -1,8 +1,8 @@
 
 I'm Praveen, Full Stack Web Developer open to collaborating on web development projects.<br>
- Curious Learner....
+Curious Learner.
 
-#### Favourite Stuff....//
+#### Favourite Stuff
 
 ![Neovim](https://img.shields.io/badge/Neovim-0c1017.svg?logo=neovim&logoColor=57A143&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-0c1017.svg?logo=react&logoColor=61DAFB&style=for-the-badge)
