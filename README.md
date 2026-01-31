@@ -14,6 +14,8 @@ Curious Learner.
 ![MongoDB](https://img.shields.io/badge/MongoDB-0c1017.svg?logo=mongodb&logoColor=47A248&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-0c1017.svg?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge)
 
+![](https://komarev.com/ghpvc/?username=praveen24sriv)
+
 <!--
 
 
