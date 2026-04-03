@@ -7,7 +7,7 @@ Curious Learner.
 ![Neovim](https://img.shields.io/badge/Neovim-0c1017.svg?logo=neovim&logoColor=57A143&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-0c1017.svg?logo=openjdk&logoColor=ED8B00&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0c1017.svg?logo=typescript&logoColor=3178C6&style=for-the-badge)
-
+![GraphQL](https://img.shields.io/badge/GraphQL-0c1017.svg?logo=graphql&logoColor=E10098&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-0c1017.svg?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-0c1017.svg?logo=redux&logoColor=764ABC&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-0c1017.svg?logo=express&logoColor=white&style=for-the-badge)
